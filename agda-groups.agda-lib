@@ -1,0 +1,4 @@
+name: agda-categories
+depend: standard-library-1.5
+        agda-categories
+include: src/
