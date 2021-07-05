@@ -1,4 +1,4 @@
-name: agda-categories
-depend: standard-library-1.5
+name: agda-groups
+depend: standard-library-1.6
         agda-categories
 include: src/
